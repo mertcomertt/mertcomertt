@@ -11,3 +11,6 @@ I have Bachelor degree of Electrical and Electronics Enginnering from *Universit
 ## :chart_with_downwards_trend: Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertcomertt)](https://github.com/anuraghazra/github-readme-stats) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mertcomertt&theme=default)](https://git.io/streak-stats)
+
+
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://media.giphy.com/media/K8vxKJxoetO7fmRhWv/giphy.gif))
