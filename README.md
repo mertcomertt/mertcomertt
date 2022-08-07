@@ -13,13 +13,10 @@ I have Bachelor degree of Electrical and Electronics Enginnering from *Universit
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mertcomertt&theme=default)](https://git.io/streak-stats)
 
 
-![Merhaba](https://media.giphy.com/media/K8vxKJxoetO7fmRhWv/giphy.gif)
-<img src="https://media.giphy.com/media/K8vxKJxoetO7fmRhWv/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/K8vxKJxoetO7fmRhWv/giphy.gif" width="400" height="400" />
 
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
 
-   <img src="https://media.giphy.com/media/K8vxKJxoetO7fmRhWv/giphy.gif" width="400" height="400" />
+
+   
  
 
