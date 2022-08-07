@@ -12,12 +12,10 @@ I have Bachelor degree of Electrical and Electronics Enginnering from *Universit
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertcomertt)](https://github.com/anuraghazra/github-readme-stats) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mertcomertt&theme=default)](https://git.io/streak-stats)
 
-
+## :rainbow: Fun Fact
 <p align="center">
-   <img src="https://media.giphy.com/media/K8vxKJxoetO7fmRhWv/giphy.gif" />
-   </p>
-
-
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+</p>
 
    
  
