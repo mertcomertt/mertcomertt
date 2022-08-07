@@ -13,7 +13,9 @@ I have Bachelor degree of Electrical and Electronics Enginnering from *Universit
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mertcomertt&theme=default)](https://git.io/streak-stats)
 
 
-<img src="https://media.giphy.com/media/K8vxKJxoetO7fmRhWv/giphy.gif" width="400" height="400" />
+<p align="center">
+   <img src="https://media.giphy.com/media/K8vxKJxoetO7fmRhWv/giphy.gif" />
+   </p>
 
 
 
