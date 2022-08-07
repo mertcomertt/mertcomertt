@@ -19,5 +19,7 @@ I have Bachelor degree of Electrical and Electronics Enginnering from *Universit
 <p align="center">
    <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
    </p>
+<p align="center">
+   <img src="https://media.giphy.com/media/K8vxKJxoetO7fmRhWv/giphy.gif" />
+   </p>
 
-<iframe src="https://giphy.com/embed/K8vxKJxoetO7fmRhWv" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/K8vxKJxoetO7fmRhWv">via GIPHY</a></p>
