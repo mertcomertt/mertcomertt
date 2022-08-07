@@ -1,4 +1,4 @@
-### Hi there I am Mert 👋
+### Hello there, I am Mert 👋
 👨‍💻 About Me
 <!--
 **mertcomertt/mertcomertt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
