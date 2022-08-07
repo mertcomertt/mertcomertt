@@ -13,4 +13,4 @@ I have Bachelor degree of Electrical and Electronics Enginnering from *Universit
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mertcomertt&theme=default)](https://git.io/streak-stats)
 
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://media.giphy.com/media/K8vxKJxoetO7fmRhWv/giphy.gif))
+![](https://media.giphy.com/media/K8vxKJxoetO7fmRhWv/giphy.gif)
