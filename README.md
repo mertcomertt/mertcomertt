@@ -16,3 +16,6 @@ I have Bachelor degree of Electrical and Electronics Enginnering from *Universit
 ![Merhaba](https://media.giphy.com/media/K8vxKJxoetO7fmRhWv/giphy.gif)
 <img src="https://media.giphy.com/media/K8vxKJxoetO7fmRhWv/giphy.gif" width="40" height="40" />
 
+<p align="center">
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   </p>
