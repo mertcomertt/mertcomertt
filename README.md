@@ -42,8 +42,8 @@ Here you'll find projects and experiments around software engineering, industria
 
 ## :chart_with_downwards_trend: GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mertcomertt&show_icons=true&theme=default" alt="Mert's GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=mertcomertt&theme=default" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mertcomertt&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=mertcomertt&theme=tokyonight&hide_border=true" />
 </p>
 
 ## :rainbow: Fun Fact
