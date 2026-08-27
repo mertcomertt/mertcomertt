@@ -1,7 +1,17 @@
 ### Hello there, I am Mert 👋
 
 ## 👨‍💻 About Me
-I have Bachelor degree of Electrical and Electronics Enginnering from *University of Turkish Aeronautical Association*, Ankara.I am a Full Stack Software Developer  living in Ankara, Turkey in order to prepare Industry 4.0 solutions with the help of Internet of Things (IoT). I would love to discover new technologies and face with challenging situations in order to get more experience on this field. I have planned to improve myself on software development lifecycle for producing more efficient end-to-end digital software solutions.
+I'm a Project Engineer at the University of Sheffield AMRC, working at the intersection of software engineering and advanced manufacturing.
+
+I have 7+ years of experience across the aerospace, defence and nuclear sectors, with a particular focus on connecting manufacturing systems, machines and engineering applications. My work includes backend development, industrial system integration, APIs, data pipelines and software architecture using technologies such as Python, Java, REST, MQTT, OPC-UA, Docker and CI/CD.
+
+Before joining the AMRC, I worked in Digital and Industrial Transformation at Turkish Aerospace, developing production software and integration solutions for manufacturing environments.
+
+At the AMRC, my role combines hands-on software development with broader Project Engineer responsibilities, including technical requirements, system design, project delivery and collaboration with researchers, engineers and manufacturing teams.
+
+I'm particularly interested in industrial interoperability, IIoT, legacy system integration, digital manufacturing and building maintainable software that turns machine and production data into useful engineering information.
+
+Here you'll find projects and experiments around software engineering, industrial connectivity and manufacturing technologies.
 
 
 
