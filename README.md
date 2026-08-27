@@ -40,10 +40,12 @@ Here you'll find projects and experiments around software engineering, industria
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/></a>
 
 
-## :chart_with_downwards_trend: GitHub Stats
+## 📉 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mertcomertt&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=mertcomertt&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mertcomertt&theme=github"
+    alt="Mert's GitHub Stats"
+  />
 </p>
 
 ## :rainbow: Fun Fact
